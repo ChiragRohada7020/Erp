@@ -1,16 +1,30 @@
-# React + Vite
+# Material Tailwind Dashboard React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+#### Preview
 
-Currently, two official plugins are available:
+ - [Demo](https://themewagon.github.io/material-tailwind-dashboard-react/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+#### Download
+ - [Download from ThemeWagon](https://themewagon.com/themes/material-tailwind-dashboard-react/)
+ 
+ 
+## Getting Started
 
-## React Compiler
+Clone from GitHub 
+```
+https://github.com/themewagon/material-tailwind-dashboard-react.git
+```
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Author
 
-## Expanding the ESLint configuration
+Designed & Developed by Creative Tim.  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+## License
+
+ - Design and Code is Copyright &copy; [Creativ Tim](https://www.creative-tim.com/)
+ - Licensed under [MIT]
+ - Distributed by [ThemeWagon](https://themewagon.com)
+
+
+
